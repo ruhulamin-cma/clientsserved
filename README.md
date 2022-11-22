@@ -18,8 +18,8 @@
 |EPIC Group|Garments|Payroll audit (Process review and prepayment verification)|In-Charge|October 2019 to March 2020|
 |Unifill Group|Garments|Leftover garments audit (process review)|In-Charge|31 December 2019|
 |Prudent Fashions|Garments|Interim FS Audit|In-Charge|30 June 2020|
-|Grameenphone Limited|Telecommunications|Provident fund audit|In-Charge|
-|Roar Bangladesh Limited|ITES|Statutory audit|In-Charge|
-|BAT|Tobacco|Inventory verification|In-Charge|
-|Marico Bangladesh|FMCG|Inventory verification|In-Charge|
-|Unilever Bangladesh Limited|FMCG|Fixed assets & inventory verification|In-Charge|
+|Grameenphone Limited|Telecommunications|Provident fund audit|In-Charge|31 December 2019|
+|Roar Bangladesh Limited|ITES|Statutory audit|In-Charge|30 June 2020|
+|BAT|Tobacco|Inventory verification|In-Charge|Monthly|
+|Marico Bangladesh|FMCG|Inventory verification|In-Charge|Monthly|
+|Unilever Bangladesh Limited|FMCG|Fixed assets & inventory verification|In-Charge|Monthly|
