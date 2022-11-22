@@ -12,7 +12,7 @@
 |Sunamgonj Palli Bidyut Samity|Power & utilities|Statutory audit|In-Charge|
 |Polmart-PHQ|Co-operative|Review of FS|In-Charge|
 |“Daruchini Plaza” AWAR Construction|Construction|Valuation|In-Charge|
-|JF & I Packaging Dhaka Limited	Manufacturing	BB Quarterly FDI Reporting|In-Charge|
+|JF & I Packaging Dhaka Limited|Manufacturing|BB Quarterly FDI Reporting|In-Charge|
 |Narsingdhi Palli Bidyut Samity|Power & utilities|Statutory audit|In-Charge|
 |Portonics Limited|ITES|Statutory audit|In-Charge|
 |EPIC Group|Garments|Payroll audit (Process review and prepayment verification)|In-Charge|
