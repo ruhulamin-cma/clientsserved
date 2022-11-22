@@ -3,21 +3,21 @@
 |:-----:|:--------:|:----------------:|:-----------:|:------------:|:--------------:|
 |Asian Development Bank|Banking|Feasibility study of investment to DWASA (Economic & Financial Analysis for PCR_DWSSDP)|In-Charge|September 2021|
 |Yeakin Polymer PLC|Polymer|Financial Due Diligence|In-Charge|31 March 2022|
-|EAM Holdings Limited|Constructions|Internal audit|In-Charge|
-|Salextra Limited|E-commerce|Internal Audit|In-Charge|
-|Southeast Union Ceramic Industries Limited|Ceramics|Feasibility analysis for a potential merger|In-Charge|
-|Air Alliance Limited (UPS Bangladesh)|Freight forwarding|Management audit|In-Charge|
-|Fu-Wang PLC|FMCG|Interim FS preparation|In-Charge|
-|Penta Trading Limited|FMCG|Statutory audit|In-Charge|
-|Sunamgonj Palli Bidyut Samity|Power & utilities|Statutory audit|In-Charge|
-|Polmart-PHQ|Co-operative|Review of FS|In-Charge|
-|“Daruchini Plaza” AWAR Construction|Construction|Valuation|In-Charge|
-|JF & I Packaging Dhaka Limited|Manufacturing|BB Quarterly FDI Reporting|In-Charge|
-|Narsingdhi Palli Bidyut Samity|Power & utilities|Statutory audit|In-Charge|
-|Portonics Limited|ITES|Statutory audit|In-Charge|
-|EPIC Group|Garments|Payroll audit (Process review and prepayment verification)|In-Charge|
-|Unifill Group|Garments|Leftover garments audit (process review)|In-Charge|
-|Prudent Fashions|Garments|Interim FS Audit|In-Charge|
+|EAM Holdings Limited|Constructions|Internal audit|In-Charge|Project based|
+|Salextra Limited|E-commerce|Internal Audit|In-Charge|30 June 2020 & 2021|
+|Southeast Union Ceramic Industries Limited|Ceramics|Feasibility analysis for a potential merger|In-Charge|30 June 2021|
+|Air Alliance Limited (UPS Bangladesh)|Freight forwarding|Management audit|In-Charge|30 June 2021|
+|Fu-Wang PLC|FMCG|Interim FS preparation|In-Charge|31 March 2022|
+|Penta Trading Limited|FMCG|Statutory audit|In-Charge|30 June 2021|
+|Sunamgonj Palli Bidyut Samity|Power & utilities|Statutory audit|In-Charge|30 June 2022|
+|Polmart-PHQ|Co-operative|Review of FS|In-Charge|30 June 2022|
+|“Daruchini Plaza” AWAR Construction|Construction|Valuation|In-Charge|N/A|
+|JF & I Packaging Dhaka Limited|Manufacturing|BB Quarterly FDI Reporting|In-Charge|30 September 2022|
+|Narsingdhi Palli Bidyut Samity|Power & utilities|Statutory audit|In-Charge|30 June 2019|
+|Portonics Limited|ITES|Statutory audit|In-Charge|30 June 2019, & 2020|
+|EPIC Group|Garments|Payroll audit (Process review and prepayment verification)|In-Charge|October 2019 to March 2020|
+|Unifill Group|Garments|Leftover garments audit (process review)|In-Charge|31 December 2019|
+|Prudent Fashions|Garments|Interim FS Audit|In-Charge|30 June 2020|
 |Grameenphone Limited|Telecommunications|Provident fund audit|In-Charge|
 |Roar Bangladesh Limited|ITES|Statutory audit|In-Charge|
 |BAT|Tobacco|Inventory verification|In-Charge|
