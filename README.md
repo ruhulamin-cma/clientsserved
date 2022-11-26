@@ -14,7 +14,7 @@
 |10|Polmart-PHQ|Co-operative|Review of FS|In-Charge|30 June 2022|
 |11|“Daruchini Plaza” AWAR Construction|Construction|Valuation|In-Charge|N/A|
 |12|JF & I Packaging Dhaka Limited|Manufacturing|BB Quarterly FDI Reporting|In-Charge|30 September 2022|
-|13|Narsingdhi Palli Bidyut Samity|Power & utilities|Statutory audit|In-Charge|30 June 2019|
+|13|Narsingdhi Palli Bidyut Samity|Power & utilities|Statutory audit|Associate|30 June 2019|
 |14|Portonics Limited|ITES|Statutory audit|In-Charge|30 June 2019, & 2020|
 |15|EPIC Group|Garments|Payroll audit (Process review and prepayment verification)|In-Charge|October 2019 to March 2020|
 |16|Unifill Group|Garments|Leftover garments audit (process review)|In-Charge|31 December 2019|
